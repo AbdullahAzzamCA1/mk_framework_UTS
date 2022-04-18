@@ -1,0 +1,12 @@
+#texted {
+  font-family: verdana;
+  font-size: 100%;
+  text-align: justify;
+}
+
+.about-section {
+  padding: 60px;
+  text-align: center;
+  background-color: #212529;
+  color: white;
+}
